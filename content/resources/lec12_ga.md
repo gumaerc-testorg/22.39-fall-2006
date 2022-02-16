@@ -9,8 +9,13 @@ description: 'Lecture slides on Licensing Basis Changes, The Integrated Decision
   Determination
 
   Process.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/f8260bff703f712c21663be2e40afb9b_lec12_ga.pdf
+file: /media/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/f8260bff703f712c21663be2e40afb9b_lec12_ga.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec12_ga.pdf
 uid: f8260bff-703f-712c-2166-3be2e40afb9b

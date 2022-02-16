@@ -4,8 +4,13 @@ description: Lecture slides on Design Goals and Interrelationship among Core Des
   Parameters, Major Design Choices, Principle PWR Design Challenges, Typical Nuclear
   Plant Operating History, Time Periods in an Operating Cycle, and Plant Operating
   Characteristics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/c0fcfd6911492cde8ddcfa2e9a5f9440_lec2_nt.pdf
+file: /media/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/c0fcfd6911492cde8ddcfa2e9a5f9440_lec2_nt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec2_nt.pdf
 uid: c0fcfd69-1149-2cde-8ddc-fa2e9a5f9440

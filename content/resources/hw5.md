@@ -2,8 +2,13 @@
 content_type: resource
 description: Homework assignment on Integration of Reactor Design, Operations, and
   Safety.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/866adbceca49222d79315da8b3e530cb_hw5.pdf
+file: /media/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/866adbceca49222d79315da8b3e530cb_hw5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw5.pdf
 uid: 866adbce-ca49-222d-7931-5da8b3e530cb

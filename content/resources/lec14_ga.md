@@ -6,8 +6,13 @@ description: Lecture slides on Risk-Informed Changes to the Licensing Basis, The
   Classification, Technical Issues Structure, Piping Base Case Development, Elicitation
   Questions, Elicitation Insights, Total LOCA Frequencies, Sensitivity Analyses, Aggregating
   Expert Opinion, and Selecting the TBS.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/de8efbcde9c7c9c28463996ca5b9e24a_lec14_ga.pdf
+file: /media/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/de8efbcde9c7c9c28463996ca5b9e24a_lec14_ga.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec14_ga.pdf
 uid: de8efbcd-e9c7-c9c2-8463-996ca5b9e24a

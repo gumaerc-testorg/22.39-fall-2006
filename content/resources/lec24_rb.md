@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture slides on Fast Reactor Materials Issues, Extension of LWR Conditions
   to FR Conditions, and Design Implications.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/8ed1b9c7d8e82a9d09ad9b2c71602f82_lec24_rb.pdf
+file: /media/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/8ed1b9c7d8e82a9d09ad9b2c71602f82_lec24_rb.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec24_rb.pdf
 uid: 8ed1b9c7-d8e8-2a9d-09ad-9b2c71602f82

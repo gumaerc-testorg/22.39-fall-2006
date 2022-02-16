@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework assignment Materials Problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/772bbca5c228b3ea8ff4a3bc0181b816_hw9.pdf
+file: /media/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/772bbca5c228b3ea8ff4a3bc0181b816_hw9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw9.pdf
 uid: 772bbca5-c228-b3ea-8ff4-a3bc0181b816

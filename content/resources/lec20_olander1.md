@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Olander, Donald E. "Radiation Damage." Chapter 17 in Fundamental Aspects
   of Nuclear Reactor Fuel Elements. Washington, DC: U.S. DOE, 1976.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/a8c02530129087bdaa588128ab65a132_lec20_olander1.pdf
+file: /media/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/a8c02530129087bdaa588128ab65a132_lec20_olander1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: lec20_olander1.pdf
 uid: a8c02530-1290-87bd-aa58-8128ab65a132
