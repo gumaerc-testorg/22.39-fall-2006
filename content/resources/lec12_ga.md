@@ -16,6 +16,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ea4c6762-2031-77a3-dfa7-940a90b40201
 resourcetype: Document
 title: lec12_ga.pdf
 uid: f8260bff-703f-712c-2166-3be2e40afb9b

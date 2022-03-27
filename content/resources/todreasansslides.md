@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e977312d-c612-e36d-626c-4daf73351019
 resourcetype: Document
 title: todreasansslides.pdf
 uid: b45007a2-adee-da8c-ef6f-64eb43b4bc0d

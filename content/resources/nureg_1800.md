@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e977312d-c612-e36d-626c-4daf73351019
 resourcetype: Document
 title: nureg_1800.pdf
 uid: 2f413801-f298-d5e9-e21c-0dada014217e

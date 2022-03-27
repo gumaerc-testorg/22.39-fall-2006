@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e977312d-c612-e36d-626c-4daf73351019
 resourcetype: Document
 title: lec20_olander2.pdf
 uid: 86d0ba40-d4bf-b444-3443-34359261c971

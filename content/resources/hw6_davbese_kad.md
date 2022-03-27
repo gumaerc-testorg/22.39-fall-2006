@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0f57ac7b-f2f6-0219-0b4a-e81e02450c33
 resourcetype: Document
 title: hw6_davbese_kad.pdf
 uid: b99b5461-2ed0-b3b8-a712-38cb1d68fa9b

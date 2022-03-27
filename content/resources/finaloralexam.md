@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: fbc341d2-cccf-15fe-4f06-53d4a857830c
 resourcetype: Document
 title: finaloralexam.pdf
 uid: 9c6b8941-2b7e-4a5a-d0d6-205c2230e47f

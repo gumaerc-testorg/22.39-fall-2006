@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e977312d-c612-e36d-626c-4daf73351019
 resourcetype: Document
 title: todreasadamovcmt.pdf
 uid: ee8c55ac-7674-7f29-e81f-ab4eeec029f5

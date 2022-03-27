@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e977312d-c612-e36d-626c-4daf73351019
 resourcetype: Document
 title: todreas_gnep.pdf
 uid: d079c5bc-e8ab-a0a4-0468-9ede47cd3c74

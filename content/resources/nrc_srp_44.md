@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e977312d-c612-e36d-626c-4daf73351019
 resourcetype: Document
 title: nrc_srp_44.pdf
 uid: 962982f7-0886-968d-a28c-a6cc8e04cd1b

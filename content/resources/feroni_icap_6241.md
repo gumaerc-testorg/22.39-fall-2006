@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0f57ac7b-f2f6-0219-0b4a-e81e02450c33
 resourcetype: Document
 title: feroni_icap_6241.pdf
 uid: 4af9d02c-eafe-257b-2b20-11fdb55f27c6
