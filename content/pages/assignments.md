@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the homework assignments for the
+  course and supporting files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ uid: 0f57ac7b-f2f6-0219-0b4a-e81e02450c33
 
 This page presents files for the paper and nine assigned problem sets.
 
-Paper Assignment: U.S. Nuclear Energy Systems Strategy ([PDF]({{< baseurl >}}/resources/paper1))
+Paper Assignment: U.S. Nuclear Energy Systems Strategy ({{% resource_link d80f4b3c-6433-7c18-9acd-a07959662834 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -35,7 +37,7 @@ ASSOCIATED LECTURES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Design Relationships between Core Parameters ([PDF]({{< baseurl >}}/resources/hw1))
+Design Relationships between Core Parameters ({{% resource_link 72d69b2a-95ed-4c1a-51ad-fd4833337468 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -52,7 +54,7 @@ Design Relationships between Core Parameters ([PDF]({{< baseurl >}}/resources/hw
 {{< tdopen >}}
 
 
-VIPRE Modeling ([PDF]({{< baseurl >}}/resources/hw2))
+VIPRE Modeling ({{% resource_link b645eaa5-bce2-cdc0-7a46-679bd2178ba7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -63,7 +65,7 @@ Ferroni, P., M. Fratoni, F. Ginex, F. Ganda, C. Handwerk, E. Greenspan, and N. T
 
 [VIPRE Web site](http://www.csai.com/vipre/index.html)
 
-VIPRE input files ([ZIP]({{< baseurl >}}/resources/vipre_inputszip)) (contains two .txt files: hydride\_wholecore\_input.txt and oxide\_wholecore\_input.txt)
+VIPRE input files ({{% resource_link 61984faf-f2a1-ae56-97bf-03c8bd93fa23 "ZIP" %}}) (contains two .txt files: hydride\_wholecore\_input.txt and oxide\_wholecore\_input.txt)
 
 
 {{< tdclose >}}
@@ -79,16 +81,16 @@ VIPRE input files ([ZIP]({{< baseurl >}}/resources/vipre_inputszip)) (contains t
 {{< tdopen >}}
 
 
-Write an Executive Summary: Possible Amendments to Criticality Accident Regulations ([PDF]({{< baseurl >}}/resources/hw3))
+Write an Executive Summary: Possible Amendments to Criticality Accident Regulations ({{% resource_link 8b01ae04-4938-24ea-8de4-62300a29adc0 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-U.S. NRC ruling package: "Criticality Control of Fuel within Dry Storage Casks or Transportation Packages in a Spent Fuel Pool." ([PDF]({{< baseurl >}}/resources/hw3_reading1))
+U.S. NRC ruling package: "Criticality Control of Fuel within Dry Storage Casks or Transportation Packages in a Spent Fuel Pool." ({{% resource_link 172f3a49-c72e-1cc5-ae3d-0ee165305c67 "PDF" %}})
 
-U.S. NRC memorandum: Wallis, G. B. "Proposed Direct Final Rule to Amend 10 CFR 50.68, 'Criticality Accident Requirements.'" September 21, 2006. ([PDF]({{< baseurl >}}/resources/hw3_reading2))
+U.S. NRC memorandum: Wallis, G. B. "Proposed Direct Final Rule to Amend 10 CFR 50.68, 'Criticality Accident Requirements.'" September 21, 2006. ({{% resource_link c6e1c3c5-be01-cde7-81df-202597898c8b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -104,7 +106,7 @@ U.S. NRC memorandum: Wallis, G. B. "Proposed Direct Final Rule to Amend 10 CFR 5
 {{< tdopen >}}
 
 
-Write an Executive Summary: NUREG-1150 Risk Assessement of Surry 1 Reactor ([PDF]({{< baseurl >}}/resources/hw4))
+Write an Executive Summary: NUREG-1150 Risk Assessement of Surry 1 Reactor ({{% resource_link 0781d313-c75d-86ce-719a-2eec62b5a077 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -121,7 +123,7 @@ Write an Executive Summary: NUREG-1150 Risk Assessement of Surry 1 Reactor ([PDF
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Probabilistic Calculations ([PDF]({{< baseurl >}}/resources/hw5))
+Probabilistic Calculations ({{% resource_link 866adbce-ca49-222d-7931-5da8b3e530cb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -136,10 +138,10 @@ Probabilistic Calculations ([PDF]({{< baseurl >}}/resources/hw5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of the Davis Besse Event ([PDF]({{< baseurl >}}/resources/hw6))
+Analysis of the Davis Besse Event ({{% resource_link 1265b8a9-247c-094f-3340-41108bd816e5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Prof. Kadak's thoughts on the assignment ([PDF]({{< baseurl >}}/resources/hw6_davbese_kad))
+Prof. Kadak's thoughts on the assignment ({{% resource_link b99b5461-2ed0-b3b8-a712-38cb1d68fa9b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 13
@@ -151,7 +153,7 @@ Prof. Kadak's thoughts on the assignment ([PDF]({{< baseurl >}}/resources/hw6_da
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Large Break LOCA Analysis ([PDF]({{< baseurl >}}/resources/hw7))
+Large Break LOCA Analysis ({{% resource_link ef55b917-9c51-56de-01f2-2cb24be1f284 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -166,7 +168,7 @@ Large Break LOCA Analysis ([PDF]({{< baseurl >}}/resources/hw7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Proposal for Nuclear Energy in Egypt ([PDF]({{< baseurl >}}/resources/hw8))
+Proposal for Nuclear Energy in Egypt ({{% resource_link 768b89fd-5f89-ff05-42c3-4acfd5bdef96 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -181,7 +183,7 @@ Proposal for Nuclear Energy in Egypt ([PDF]({{< baseurl >}}/resources/hw8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Materials Problems ([PDF]({{< baseurl >}}/resources/hw9))
+Materials Problems ({{% resource_link 772bbca5-c228-b3ea-8ff4-a3bc0181b816 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

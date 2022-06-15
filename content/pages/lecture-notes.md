@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a schedule of lecture topics, instructors, and
+  detailed lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,7 +30,7 @@ INSTRUCTORS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Nuclear Energy System Strategies ([PDF - 2.8 MB]({{< baseurl >}}/resources/lec1_nt))
+Nuclear Energy System Strategies ({{% resource_link ad43e7e1-588e-ef2a-720b-1c0b8bb12ecc "PDF - 2.8 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Todreas
@@ -40,7 +42,7 @@ Prof. Todreas
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Design Goals and Interrelationship of Core Design Parameters ([PDF]({{< baseurl >}}/resources/lec2_nt))
+Design Goals and Interrelationship of Core Design Parameters ({{% resource_link c0fcfd69-1149-2cde-8ddc-fa2e9a5f9440 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Todreas
@@ -52,7 +54,7 @@ Prof. Todreas
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Thermal Hydraulic Design Requirements - LWR Steady State and Transient Design ([PDF - 1.4 MB]({{< baseurl >}}/resources/lec3_nt))
+Thermal Hydraulic Design Requirements - LWR Steady State and Transient Design ({{% resource_link fd573e46-07c4-b3f8-f402-9933ce2799b6 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Todreas
@@ -64,7 +66,7 @@ Prof. Todreas
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Thermal Hydraulic in Safety Analysis ([PDF - 1.6 MB]({{< baseurl >}}/resources/lec4_nt))
+Thermal Hydraulic in Safety Analysis ({{% resource_link 4b6cdc67-757a-c32e-440d-2a5ded40115f "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Todreas
@@ -76,7 +78,7 @@ Prof. Todreas
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Reactor Physics - Design Parameters for PWRs ([PDF]({{< baseurl >}}/resources/lec5_ga))
+Reactor Physics - Design Parameters for PWRs ({{% resource_link 0095dcff-485c-e7a5-9791-efa5955d4458 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Apostolakis
@@ -88,7 +90,7 @@ Prof. Apostolakis
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Design Requirements - Safety and Critical Safety Functions ([PDF]({{< baseurl >}}/resources/lec6_ga))
+Design Requirements - Safety and Critical Safety Functions ({{% resource_link 9e854479-8628-ed5f-e1de-b19083164a57 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Apostolakis
@@ -100,7 +102,7 @@ Prof. Apostolakis
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Reactor Safety: The Emergence of Probabilistic Risk Assessment ([PDF]({{< baseurl >}}/resources/lec7_ga))
+Reactor Safety: The Emergence of Probabilistic Risk Assessment ({{% resource_link aeaa07d3-f241-bb6c-e7da-6cdab11dfa15 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Apostolakis
@@ -112,7 +114,7 @@ Prof. Apostolakis
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Reactor Physics - Design Parameters for GFRs ([PDF]({{< baseurl >}}/resources/lec8_ch))
+Reactor Physics - Design Parameters for GFRs ({{% resource_link 414a3294-9449-b93b-0457-6f9b6dfd4963 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Chris Handwerk, Course TA
@@ -124,7 +126,7 @@ Chris Handwerk, Course TA
 9
 {{< tdclose >}}
 {{< tdopen >}}
-PRA Methodology Overview ([PDF]({{< baseurl >}}/resources/lec9_ga))
+PRA Methodology Overview ({{% resource_link a316316c-2bc3-f059-cb53-9976b518221f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Apostolakis
@@ -136,7 +138,7 @@ Prof. Apostolakis
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Probabilistic Calculations - I ([PDF]({{< baseurl >}}/resources/lec10_11_ga))
+Probabilistic Calculations - I ({{% resource_link aedbd865-e172-e08d-44f9-e85215913d0b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Apostolakis
@@ -148,7 +150,7 @@ Prof. Apostolakis
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Probabilistic Calculations - II ([PDF]({{< baseurl >}}/resources/lec10_11_ga))
+Probabilistic Calculations - II ({{% resource_link aedbd865-e172-e08d-44f9-e85215913d0b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Apostolakis
@@ -160,7 +162,7 @@ Prof. Apostolakis
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Risk-Informed Changes to the Licensing Basis - I ([PDF]({{< baseurl >}}/resources/lec12_ga))
+Risk-Informed Changes to the Licensing Basis - I ({{% resource_link f8260bff-703f-712c-2166-3be2e40afb9b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Apostolakis
@@ -172,7 +174,7 @@ Prof. Apostolakis
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Applying Safety Regulations to Plant Operations ([PDF]({{< baseurl >}}/resources/lec13_ak))
+Applying Safety Regulations to Plant Operations ({{% resource_link eee4c0e1-6263-1ec4-b0f3-c68da3c7703d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Kadak
@@ -184,7 +186,7 @@ Prof. Kadak
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Risk-Informed Changes to the Licensing Basis - II ([PDF]({{< baseurl >}}/resources/lec14_ga))
+Risk-Informed Changes to the Licensing Basis - II ({{% resource_link de8efbcd-e9c7-c9c2-8463-996ca5b9e24a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Apostolakis
@@ -196,7 +198,7 @@ Prof. Apostolakis
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Large Break LOCA Analysis/Result ([PDF - 2.5 MB]({{< baseurl >}}/resources/lec15_nt))
+Large Break LOCA Analysis/Result ({{% resource_link 08e2a123-5e71-6dbf-53f3-9019f5c2ec2b "PDF - 2.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Todreas
@@ -240,7 +242,7 @@ Prof. Apostolakis
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Plant Economic Evaluation ([PDF]({{< baseurl >}}/resources/lec18_nt))
+Plant Economic Evaluation ({{% resource_link eed3d029-aca8-6b3d-bc80-ecdf6bb83c88 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Todreas
@@ -252,7 +254,7 @@ Prof. Todreas
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Plant Economic Evaluation (cont.) ([PDF]({{< baseurl >}}/resources/lec19_nt))
+Plant Economic Evaluation (cont.) ({{% resource_link 1294bdcb-8484-c067-2b46-3684416a097a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Todreas
@@ -264,7 +266,7 @@ Prof. Todreas
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Materials Selection Process ([PDF]({{< baseurl >}}/resources/lec20_rb))
+Materials Selection Process ({{% resource_link 0250c329-b342-cb70-2df9-ad6420fb837e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Ballinger
@@ -276,7 +278,7 @@ Prof. Ballinger
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Radiation Damage Effects and Their Design Implications ([PDF - 1.3 MB]({{< baseurl >}}/resources/lec21_rb))
+Radiation Damage Effects and Their Design Implications ({{% resource_link 79bc7f6b-9a29-512a-b94f-5481e41d5393 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Ballinger
@@ -288,7 +290,7 @@ Prof. Ballinger
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Environmental Degradation and its Design Implications ([PDF]({{< baseurl >}}/resources/lec22_rb))
+Environmental Degradation and its Design Implications ({{% resource_link 7576da87-b513-1762-02c6-fc15f6e53866 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Ballinger
@@ -312,7 +314,7 @@ Prof. Ballinger
 24
 {{< tdclose >}}
 {{< tdopen >}}
-GFR Materials Applications ([PDF]({{< baseurl >}}/resources/lec24_rb))
+GFR Materials Applications ({{% resource_link 8ed1b9c7-d8e8-2a9d-09ad-9b2c71602f82 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Ballinger
@@ -324,7 +326,7 @@ Prof. Ballinger
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Risk Informed Design Guidance for Gen IV Reactors ([PDF]({{< baseurl >}}/resources/lec25_ga))
+Risk Informed Design Guidance for Gen IV Reactors ({{% resource_link 83c199f9-c5d0-3476-b4c4-4ac895de18b5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Apostolakis
