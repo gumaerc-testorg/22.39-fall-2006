@@ -7,6 +7,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec19_nt.pdf
 uid: 1294bdcb-8484-c067-2b46-3684416a097a
 ---
 lecture slides on Nuclear Energy Systems Economic Evaluations: Uranium Resource Availability Fuel Cycle Cost, Uranium Resource Availability, and Fuel Cycle Costs.
-

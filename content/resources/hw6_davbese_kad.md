@@ -5,6 +5,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw6_davbese_kad.pdf
 uid: b99b5461-2ed0-b3b8-a712-38cb1d68fa9b
 ---
 Prof. Kadak's thoughts on the Davis Besse Assignment.
-

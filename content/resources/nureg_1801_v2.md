@@ -5,6 +5,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nureg_1801_v2.pdf
 uid: ac11c16d-cd1e-5b8e-1359-46287fe695d9
 ---
 Generic Aging Lessons Learned (GALL) Report.
-

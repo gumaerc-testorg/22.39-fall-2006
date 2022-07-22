@@ -5,6 +5,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2006final.pdf
 uid: b85e16c0-32f9-7876-5ef4-21b39ff91d7f
 ---
 2006 Final Oral Exam.
-

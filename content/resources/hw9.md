@@ -5,6 +5,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw9.pdf
 uid: 772bbca5-c228-b3ea-8ff4-a3bc0181b816
 ---
 Homework assignment Materials Problems.
-

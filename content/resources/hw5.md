@@ -6,6 +6,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw5.pdf
 uid: 866adbce-ca49-222d-7931-5da8b3e530cb
 ---
 Homework assignment on Integration of Reactor Design, Operations, and Safety.
-

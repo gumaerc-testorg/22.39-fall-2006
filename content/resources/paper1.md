@@ -5,6 +5,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper1.pdf
 uid: d80f4b3c-6433-7c18-9acd-a07959662834
 ---
 Writing assignment on U.S. Nuclear Energy Systems Strategy.
-

@@ -6,6 +6,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec24_rb.pdf
 uid: 8ed1b9c7-d8e8-2a9d-09ad-9b2c71602f82
 ---
 Lecture slides on Fast Reactor Materials Issues, Extension of LWR Conditions to FR Conditions, and Design Implications.
-

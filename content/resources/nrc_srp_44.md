@@ -6,6 +6,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nrc_srp_44.pdf
 uid: 962982f7-0886-968d-a28c-a6cc8e04cd1b
 ---
 U.S. NRC. "Thermal and Hydraulic Design." Section 4.4 in Standard Review Plan NUREG-0800.
-

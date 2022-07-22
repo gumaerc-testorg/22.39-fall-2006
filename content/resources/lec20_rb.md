@@ -6,6 +6,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec20_rb.pdf
 uid: 0250c329-b342-cb70-2df9-ad6420fb837e
 ---
 Lecture slides on Materials Issues Related to Reactor Design, Operation, and Safety.
-

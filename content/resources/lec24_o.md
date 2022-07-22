@@ -6,6 +6,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec24_o.pdf
 uid: 3ac76590-945f-186c-07b0-57ffe7f45b53
 ---
 U.S. NRC. "Radiation Embrittlement of Reactor Vessel Materials." In Regulatory Guide 1.99 (Revision 2, May 1988).
-

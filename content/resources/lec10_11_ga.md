@@ -11,6 +11,7 @@ file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: lec10_11_ga.pdf
 uid: aedbd865-e172-e08d-44f9-e85215913d0b
 ---
 Lecture slides on Probabilistic Calculations, General Formulation, TOP-event Probability, MinCutSet Probability, The Poisson Distribution, Reliability and Availability, Failure while running, The Hazard Function or Failure Rate, The "Bathtub" Curve, The Exponential Distribution, The Weibull failure model, The Model of the World, The Epistemic (state-of-knowledge) Model, Unconditional (predictive) probability, Communication of Epistemic Uncertainties, The lognormal distribution, HPIS Analysis, Risk Achievement Worth, and Comments on Importance Measures.
-
