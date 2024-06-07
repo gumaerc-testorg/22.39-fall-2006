@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment on Design Relationships between Core Parameters.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/72d69b2a95ed4c1a51adfd4833337468_hw1.pdf
+file_size: 23319
 file_type: application/pdf
 learning_resource_types:
 - Assignments

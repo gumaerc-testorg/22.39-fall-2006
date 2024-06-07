@@ -2,6 +2,7 @@
 content_type: resource
 description: Generic Aging Lessons Learned (GALL) Report.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/ac11c16dcd1e5b8e135946287fe695d9_nureg_1801_v2.pdf
+file_size: 4543491
 file_type: application/pdf
 learning_resource_types:
 - Readings

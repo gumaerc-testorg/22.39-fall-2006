@@ -3,6 +3,7 @@ content_type: resource
 description: 'Class Note 1: Relationships Among Key Reactor System Design Variables,
   Design Goals, and Interrelationship of Core Design Parameters.'
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/377d819ea0c471c9519b4897f25883d3_classnote1.pdf
+file_size: 1196807
 file_type: application/pdf
 learning_resource_types:
 - Readings

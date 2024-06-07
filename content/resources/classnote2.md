@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Class Note 2: Thermal Hydraulics Design Limits.'
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/872b658130ba7e2d69419e78e57beb6c_classnote2.pdf
+file_size: 261338
 file_type: application/pdf
 learning_resource_types:
 - Readings
