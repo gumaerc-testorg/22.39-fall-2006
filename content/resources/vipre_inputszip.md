@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting material for homework assignment: VIPRE input files, including
   hydride_wholecore_input.txt and oxide_wholecore_input.txt.'
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/61984faff2a1ae5697bf03c8bd93fa23_vipre_inputszip.zip
+file_size: 8979
 file_type: application/zip
 learning_resource_types:
 - Assignments

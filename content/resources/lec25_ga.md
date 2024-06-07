@@ -7,6 +7,7 @@ description: Lecture slides on Risk-Informed Design Guidance for Gen IV Reactors
   Designs 1-6 (LOCA), Results of the Iterative ECCS Design Guidance, and Screening
   based on Probabilistic Goals.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/83c199f9c5d03476b4c44ac895de18b5_lec25_ga.pdf
+file_size: 372935
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: Hearing on R&D Priorities in the Global Nuclear Energy Partnership.
   Partnership - Subcommittee on Energy Committee on Science, United States House of
   Representatives. April 6, 2006.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/d079c5bce8aba0a404689ede47cd3c74_todreas_gnep.pdf
+file_size: 115472
 file_type: application/pdf
 learning_resource_types:
 - Readings

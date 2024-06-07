@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting material for homework assignment.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/c6e1c3c5be01cde781df202597898c8b_hw3_reading2.pdf
+file_size: 54583
 file_type: application/pdf
 learning_resource_types:
 - Assignments
