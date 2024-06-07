@@ -8,6 +8,7 @@ description: Lecture slides on Probabilistic Calculations, General Formulation, 
   Communication of Epistemic Uncertainties, The lognormal distribution, HPIS Analysis,
   Risk Achievement Worth, and Comments on Importance Measures.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/aedbd865e172e08d44f9e85215913d0b_lec10_11_ga.pdf
+file_size: 582823
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

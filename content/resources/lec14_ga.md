@@ -7,6 +7,7 @@ description: Lecture slides on Risk-Informed Changes to the Licensing Basis, The
   Questions, Elicitation Insights, Total LOCA Frequencies, Sensitivity Analyses, Aggregating
   Expert Opinion, and Selecting the TBS.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/de8efbcde9c7c9c28463996ca5b9e24a_lec14_ga.pdf
+file_size: 127442
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
