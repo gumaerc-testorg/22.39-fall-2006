@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on Large Break LOCA Analysis.
-file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/ef55b9179c5156de01f22cb24be1f284_hw7.pdf
+file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/ef55b9179c5156de01f22cb24be1f284_hw7.pdf
 file_size: 13596
 file_type: application/pdf
 learning_resource_types:
