@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2005 Take-home Midterm Exam.
-file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/6c2abea4e683d2767818abce3b28947d_midterm.pdf
+file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/6c2abea4e683d2767818abce3b28947d_midterm.pdf
 file_size: 41080
 file_type: application/pdf
 learning_resource_types:
