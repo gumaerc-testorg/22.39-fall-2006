@@ -2,7 +2,7 @@
 content_type: resource
 description: Todreas, N. T. "Perspectives on the Economics of Nuclear Power from the
   MIT Study."
-file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/b45007a2adeeda8cef6f64eb43b4bc0d_todreasansslides.pdf
+file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/b45007a2adeeda8cef6f64eb43b4bc0d_todreasansslides.pdf
 file_size: 761770
 file_type: application/pdf
 learning_resource_types:

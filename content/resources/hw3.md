@@ -2,7 +2,7 @@
 content_type: resource
 description: Homework assignment on Integration of Reactor Design, Operations, and
   Safety.
-file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/8b01ae04493824ea8de462300a29adc0_hw3.pdf
+file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/8b01ae04493824ea8de462300a29adc0_hw3.pdf
 file_size: 32094
 file_type: application/pdf
 learning_resource_types:

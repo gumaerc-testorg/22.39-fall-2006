@@ -5,7 +5,7 @@ description: Lecture slides on Nuclear Energy System Strategies, Missions and Ec
   to 2050, Advanced Reactor Technology Candidates for Hydrogen Production, Hydrogen
   Production Energy Efficiency, the Global Nuclear Energy Partnership, and Current
   National Strategies.
-file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/ad43e7e1588eef2a720b1c0b8bb12ecc_lec1_nt.pdf
+file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/ad43e7e1588eef2a720b1c0b8bb12ecc_lec1_nt.pdf
 file_size: 2984287
 file_type: application/pdf
 learning_resource_types:
