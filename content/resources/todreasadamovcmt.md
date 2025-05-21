@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Todreas, N. T. "Comment on Adamov Paper." Nuclear News (November 2000).
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/ee8c55ac76747f29e81fab4eeec029f5_todreasadamovcmt.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/ee8c55ac76747f29e81fab4eeec029f5_todreasadamovcmt.pdf
 file_size: 54287
 file_type: application/pdf
 learning_resource_types:

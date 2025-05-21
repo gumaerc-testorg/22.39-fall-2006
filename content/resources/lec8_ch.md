@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides on Reactor Physics, Design Parameters for GFRs, Background,
   Design Philosophy, Traditional breeder designs and traditional safety concerns,
   and Reactor physics design in relation to Gen IV goals.
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/414a32949449b93b04576f9b6dfd4963_lec8_ch.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/414a32949449b93b04576f9b6dfd4963_lec8_ch.pdf
 file_size: 798459
 file_type: application/pdf
 learning_resource_types:

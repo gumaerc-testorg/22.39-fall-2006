@@ -5,7 +5,7 @@ description: Lecture slides on Applying Safety Regulations to Plant Operations, 
   Accidents, NRC Requirements, Reactor Oversight Process, Managing Safety, Reactor
   Protection System, Organizational Structure, Plant Oversight Processes, and Safety
   Culture.
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/eee4c0e162631ec4b0f3c68da3c7703d_lec13_ak.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/eee4c0e162631ec4b0f3c68da3c7703d_lec13_ak.pdf
 file_size: 543522
 file_type: application/pdf
 learning_resource_types:

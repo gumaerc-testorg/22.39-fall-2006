@@ -2,7 +2,7 @@
 content_type: resource
 description: U.S. NRC. "Thermal and Hydraulic Design." Section 4.4 in Standard Review
   Plan NUREG-0800.
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/962982f70886968da28ca6cc8e04cd1b_nrc_srp_44.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/962982f70886968da28ca6cc8e04cd1b_nrc_srp_44.pdf
 file_size: 144644
 file_type: application/pdf
 learning_resource_types:

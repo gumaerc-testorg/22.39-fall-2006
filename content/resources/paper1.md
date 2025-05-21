@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing assignment on U.S. Nuclear Energy Systems Strategy.
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/d80f4b3c64337c189acda07959662834_paper1.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/d80f4b3c64337c189acda07959662834_paper1.pdf
 file_size: 23313
 file_type: application/pdf
 learning_resource_types:

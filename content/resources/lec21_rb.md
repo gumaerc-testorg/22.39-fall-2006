@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture slides on Reactor Design, Operation, and Safety, and\tRadiation\
   \ Damage Effects and Their Design Implications."
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/79bc7f6b9a29512ab94f5481e41d5393_lec21_rb.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/79bc7f6b9a29512ab94f5481e41d5393_lec21_rb.pdf
 file_size: 1354308
 file_type: application/pdf
 learning_resource_types:
