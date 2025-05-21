@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Prof. Kadak's thoughts on the Davis Besse Assignment.
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/b99b54612ed0b3b8a71238cb1d68fa9b_hw6_davbese_kad.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/b99b54612ed0b3b8a71238cb1d68fa9b_hw6_davbese_kad.pdf
 file_size: 13319
 file_type: application/pdf
 learning_resource_types:

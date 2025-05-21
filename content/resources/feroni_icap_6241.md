@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives description about feasibility of improving BWR performance
   using hydride fuel.
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/4af9d02ceafe257b2b2011fdb55f27c6_feroni_icap_6241.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/4af9d02ceafe257b2b2011fdb55f27c6_feroni_icap_6241.pdf
 file_size: 548668
 file_type: application/pdf
 learning_resource_types:

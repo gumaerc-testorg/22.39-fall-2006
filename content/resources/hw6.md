@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on Analyzing the Davis Besse Event.
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/1265b8a9247c094f334041108bd816e5_hw6.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/1265b8a9247c094f334041108bd816e5_hw6.pdf
 file_size: 65835
 file_type: application/pdf
 learning_resource_types:

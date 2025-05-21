@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting material for homework assignment.
-file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/172f3a49c72e1cc5ae3d0ee165305c67_hw3_reading1.pdf
+file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/172f3a49c72e1cc5ae3d0ee165305c67_hw3_reading1.pdf
 file_size: 207554
 file_type: application/pdf
 learning_resource_types:
