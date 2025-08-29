@@ -5,7 +5,7 @@ description: 'Lecture slides on Reactor Safety: The Emergence of Probabilistic R
   Risk Assessment Review Group, Quantitative Safety Goals of the US Nuclear Regulatory
   Commission, Societal Risks, Subsidiary Goals, Large Early Release Frequency, Risk-Informed
   Decision Making for Licensing Basis Changes, and Risk-Informed Framework.'
-file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/aeaa07d3f241bb6ce7da6cdab11dfa15_lec7_ga.pdf
+file: /ol-ocw-studio-app/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/aeaa07d3f241bb6ce7da6cdab11dfa15_lec7_ga.pdf
 file_size: 845367
 file_type: application/pdf
 learning_resource_types:
