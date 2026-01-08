@@ -47,11 +47,11 @@ Prof. Todreas
 
 Todreas, N. T. Testimony before the Hearing on R&D Priorities in the Global Nuclear Energy Partnership - Subcommittee on Energy Committee on Science, United States House of Representatives. April 6, 2006. ({{% resource_link d079c5bc-e8ab-a0a4-0468-9ede47cd3c74 "PDF" %}})
 
-Lester, R. K. "{{% resource_link "91285084-09b0-4d91-b4d5-f8fcf64d6ed1" "New Nukes" %}}." _Issues in Science and Technology_ 22, no. 4 (Summer 2006): 39-46.
+Lester, R. K. "[New Nukes](http://www.issues.org/22.4/lester.html)." _Issues in Science and Technology_ 22, no. 4 (Summer 2006): 39-46.
 
-Chapter 1 in {{% resource_link "d668ea3a-e458-44e9-9085-3d14a7c25436" "_The Future of Nuclear Power: An Interdisciplinary MIT Study_" %}}. 2003.
+Chapter 1 in [_The Future of Nuclear Power: An Interdisciplinary MIT Study_](http://web.mit.edu/nuclearpower/). 2003.
 
-GenIV International Forum. "{{% resource_link "714ec990-6598-4f62-bd5a-f72604bee4ee" "A Technology Roadmap for Generation IV Nuclear Energy Systems" %}}." U.S. DOE, GIF-002-00, December 2002.
+GenIV International Forum. "[A Technology Roadmap for Generation IV Nuclear Energy Systems](http://www.gen-4.org/Technology/roadmap.htm)." U.S. DOE, GIF-002-00, December 2002.
 
 ### France (2005)
 
@@ -73,13 +73,13 @@ Todreas, N. T. "Comment on Adamov Paper." _Nuclear News_ (November 2000). ({{% r
 
 ### Uranium/Oil (2005/06)
 
-"{{% resource_link "83d86d05-0a42-4f61-ab6d-35dea4b9af2c" "Uranium: Glowing" %}}." _The Economist_ (August 17, 2006): 53-54.
+"[Uranium: Glowing](http://www.economist.com/business/displaystory.cfm?story_id=7807259)." _The Economist_ (August 17, 2006): 53-54.
 
 Nocera, Joseph. "On Oil Supply, Opinions Aren't Scarce." _New York Times_, September 10, 2005.
 
 ### Canada (2006)
 
-Meneley, D. A. "{{% resource_link "f59f3fa2-fa74-4513-b6fc-0e250f6e0146" "Transition to Large Scale Nuclear Energy Supply" %}}."
+Meneley, D. A. "[Transition to Large Scale Nuclear Energy Supply](http://www.thesciencecouncil.com/index.php/dr-dan-meneley/58-transition-to-large-scale-nuclear-energy-supply)."
 
 
 {{< tdclose >}}
@@ -182,7 +182,7 @@ Plant Economic Evaluation (cont.)
 Prof. Todreas
 {{< tdclose >}}
 {{< tdopen >}}
-World Nuclear Association. "{{% resource_link "b1e93c52-d3d2-426c-bd02-6afeed178233" "Supply of Uranium" %}}." June 2006.
+World Nuclear Association. "[Supply of Uranium](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/supply-of-uranium.aspx)." June 2006.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +226,7 @@ Olander, Donald E. "Radiation Damage." Chapter 17 in _Fundamental Aspects of Nuc
 
 U.S. NRC. "Radiation Embrittlement of Reactor Vessel Materials." In _Regulatory Guide 1.99_ (Revision 2, May 1988). ({{% resource_link 3ac76590-945f-186c-07b0-57ffe7f45b53 "PDF - 1.6 MB" %}})
 
-———. "{{% resource_link "a4d31842-d4af-4f08-97e6-bb8c23d63d64" "Reevaluation of the pressurized thermal shock rule (10 CFR 50.61) screening criterion" %}}." June 23, 2000.
+———. "[Reevaluation of the pressurized thermal shock rule (10 CFR 50.61) screening criterion](http://www.nrc.gov/reading-rm/doc-collections/acrs/letters/2002/4891982.html)." June 23, 2000.
 
 ### Optional Readings
 
@@ -236,9 +236,9 @@ The following sections in Korb, L. J., ed. _Metals Handbook_. 9th ed. Volume 13,
 Marek, M. I., et al. "Thermodynamics of Aqueous Corrosion."  
 Shoesmith, D. W. "Kinetics of Aqueous Corrosion."
 
-Nuclear Energy Agency, OECD. "{{% resource_link "1b0be4d9-a68a-41ec-bfc1-d67d0afe5f7b" "Accelerator-driven Systems (ADS) and Fast Reactors (FR) in Advanced Nuclear Fuel Cycles" %}}." NEA No. 3109, 2002.
+Nuclear Energy Agency, OECD. "[Accelerator-driven Systems (ADS) and Fast Reactors (FR) in Advanced Nuclear Fuel Cycles](http://www.nea.fr/html/ndd/reports/2002/nea3109.html)." NEA No. 3109, 2002.
 
-———. "Fuels and Materials for Transmutation." NEA No. 5419, 2005. ({{% resource_link "f6b7f8f8-62f4-4d61-bd8a-3354fab9cb2f" "PDF" %}})
+———. "Fuels and Materials for Transmutation." NEA No. 5419, 2005. ([PDF](http://www.nea.fr/html/science/docs/pubs/nea5419_fuels_materials.pdf))
 
 Olander, Donald E. "Radiation Effects in Metals: Hardening, Embrittlement, and Fracture," and "Radiation Effects in Metals: Void Swelling and Irradiation Creep." Chapters 18 and 19 in _Fundamental Aspects of Nuclear Reactor Fuel Elements_. Washington, DC: U.S. DOE, 1976. ({{% resource_link 11d27cbf-0e18-cc77-5c20-d2b542d33a1e "PDF 1 - 4.9 MB" %}}) ({{% resource_link bfd8c1f1-7b80-fd7e-ea61-ab66674db94a "PDF 2 - 4.8 MB" %}})
 
